@@ -1,4 +1,4 @@
-#ejercicio1: Crear un programa que imprima por pantalla el mensaje: “Hola Mundo!”.#
+#PRUEBA: Crear un programa que imprima por pantalla el mensaje: “Hola Mundo!”.#
 print("Hola mundo!")
 
 #ejercicio2: Crear un programa que pida al usuario su nombre e imprima por pantalla un saludo usando el nombre ingresado.#
